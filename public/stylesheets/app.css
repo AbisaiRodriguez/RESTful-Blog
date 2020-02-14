@@ -6,6 +6,10 @@ i.icon {
     margin-top: 7.0em;
 }
 
-.content-body{
+.content-body {
     margin-top: 7.0em;
+}
+
+#delete {
+    display: inline;
 }
